@@ -1,0 +1,102 @@
+*{  
+    margin: 0px;
+}
+body{
+    background-color:#646f77;
+}
+
+#header{
+    background-color: #010105;
+    color: beige;
+    height: 9%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    position: sticky;
+    top: 0px;
+    z-index: 1000;
+}
+.elements {
+    color: beige;
+    margin-left: 20px;
+    text-align: right;
+    margin-top: 25px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+#logo {
+    height: 56px;
+    width: 56px;
+    background-image: url(unnamed.png);
+    background-size: cover;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+#navbar_name{
+    margin-right: auto;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+#name {
+    background-color: #33383e;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration : underline;
+}
+#ada {
+    display: inline-block;
+    margin-top: 30px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#hello {
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-size: 40px;
+}
+#main {
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 15%;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 10%;
+    margin-bottom: 30px;
+    
+}
+#prefooter {
+    background-color: #33383e;
+    height: 50px;
+}
+#footer{
+    background-color: #010105;
+    height: 117px;
+    display: flex;
+    justify-content: center;
+}
+.icons {
+    margin-top: 30px;
+}
+#bgimage {
+    background-image: url(ADARSH.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 400px;
+   margin-left: 7%;
+   margin-top: 5%;
+   margin-bottom: 5%;
+}
+#skem {
+    display: flex;
+}
+a img {
+    height: 50px;
+    width: 50px;
+    display: inline;
+}
+
