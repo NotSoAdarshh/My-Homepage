@@ -37,14 +37,17 @@ body{
     margin-right: auto;
     margin-left: 20px;
     margin-top: 25px;
+    font-family: "Playfair Display", serif;
+    font-size: 18px;
 }
 #name {
     background-color: #33383e;
     height: 100px;
     text-align: center;
     font-size: 30px;
-    font-weight: bold;
+    font-weight: bolder;
     text-decoration : underline;
+    font-family: "Playfair Display", serif;;
 }
 #ada {
     display: inline-block;
@@ -56,17 +59,20 @@ a {
 }
 #hello {
     margin-bottom: 30px;
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 40px;
+    font-family: "Playfair Display", serif;
 }
 #main {
     width: 40%;
-    margin-left: 10%;
-    margin-top: 15%;
+    margin-left: 12%;
+    margin-top: 12%;
     font-size: 20px;
     text-align: center;
     margin-right: 10%;
     margin-bottom: 30px;
+    font-family: "Inter", sans-serif;
+    line-height: 30px;
     
 }
 #prefooter {
@@ -98,5 +104,12 @@ a img {
     height: 50px;
     width: 50px;
     display: inline;
+}
+#email {
+    text-decoration: none;
+    color: beige;
+}
+#mail {
+    color: beige;
 }
 
