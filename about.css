@@ -78,4 +78,41 @@ a img {
 #mail {
     color: beige;
 }
+.small_head{
+     margin-bottom: 30px;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: "Playfair Display", serif;
+}
+#main {
+    display: flex;
+}
+.content {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    line-height: 30px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#slideshow {
+    margin-top: 100px;
+    margin-left: 5%;
+    margin-right: 7%;
+    height: 400px;
+    width: 900px;
+    background-color: #010105;
+    border-radius: 10px;
+}
+#heading {
 
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration : underline;
+    font-family: "Playfair Display", serif;
+}
+#content_box{
+
+
+}
