@@ -79,13 +79,16 @@ a img {
     color: beige;
 }
 .small_head{
-     margin-bottom: 30px;
+    margin-top: 25px;
     font-weight: bolder;
-    font-size: 30px;
+    font-size: 25px;
     font-family: "Playfair Display", serif;
+    text-align: center;
 }
 #main {
     display: flex;
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
 .content {
     text-align: center;
@@ -93,13 +96,15 @@ a img {
     line-height: 30px;
     margin-right: 5%;
     margin-left: 5%;
+    font-size: 18px;
 }
 #slideshow {
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 5%;
-    margin-right: 7%;
-    height: 400px;
-    width: 900px;
+    margin-right: 3%;
+    margin-bottom: 30px;
+    height: 600px;
+    width: 1500px;
     background-color: #010105;
     border-radius: 10px;
 }
@@ -109,10 +114,5 @@ a img {
     text-align: center;
     font-size: 30px;
     font-weight: bolder;
-    text-decoration : underline;
     font-family: "Playfair Display", serif;
-}
-#content_box{
-
-
 }
